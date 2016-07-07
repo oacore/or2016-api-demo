@@ -1,0 +1,29 @@
+Austria	.at
+Belgium	.be
+Bulgaria	.bg
+Croatia	.hr
+Cyprus	.cy
+Czech Republic	.cz
+Denmark	.dk
+Estonia	.ee
+European Union	.eu
+Finland	.fi
+France	.fr
+Germany	.de
+Greece	.gr
+Hungary	.hu
+Ireland	.ie
+Italy	.it
+Latvia	.lv
+Lithuania	.lt
+Luxembourg	.lu
+Malta	.mt
+Netherlands	.nl
+Poland	.pl
+Portugal	.pt
+Romania	.ro
+Slovakia	.sk
+Slovenia	.si
+Sweden	.se
+Spain	.es
+United Kingdom	.uk
